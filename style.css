@@ -4,7 +4,7 @@
  
  body{
  
-    background-image:url(Angry-Lion.jpg) ;
+    background-image:url(LION.jpg) ;
     background-repeat: no-repeat;
     background-position: center ;
     background-size: cover;
@@ -52,7 +52,7 @@
       margin-left: 10px;
       margin-left: 10px;
       text-align: left;
-        color: rgb(3, 163, 184);
+        color: rgb(4, 175, 198);
     }
     .phonetext{
         margin-left:auto;
